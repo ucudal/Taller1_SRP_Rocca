@@ -13,6 +13,11 @@ namespace Full_GRASP_And_SOLID
 {
     public class Program
     {
+        /*Verifica el costo de producción de $290000
+        Claramente no tiene lógica los números pero no creo que sea lo que importa.
+        Realizado para int Time, es decir un entero que representa horas. La letra no es clara 
+        y tampoco serían lógicos los precios de las unidades de café y leche.
+        */
         private static ArrayList productCatalog = new ArrayList();
 
         private static ArrayList equipmentCatalog = new ArrayList();
